@@ -5,7 +5,8 @@ import (
 )
 
 func main() {
+	α := "☃"
 	for {
-		fmt.Printf("☃")
+		fmt.Printf(α)
 	}
 }
